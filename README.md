@@ -1,0 +1,1 @@
+# git-managed-curriculum
